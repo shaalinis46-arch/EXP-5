@@ -16,9 +16,12 @@ S.No	Name of the Apparatus	Range	Quantity
 7	Connecting Wires	As Required	
 
 CIRCUIT DIAGRAM:
+
+line regulation:
 <img width="319" height="164" alt="Screenshot 2025-12-23 184326" src="https://github.com/user-attachments/assets/1cab0c41-3038-489d-83cb-fe75749e6eaf" />
 
 load regulation:
+
 <img width="316" height="155" alt="Screenshot 2025-12-23 184513" src="https://github.com/user-attachments/assets/7576b919-9ab1-4363-8ee7-150205757c69" />
 
 THEORY:
@@ -33,18 +36,26 @@ PROCEDURE:
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
+
+line regulation:
+
 <img width="335" height="320" alt="Screenshot 2025-12-23 184335" src="https://github.com/user-attachments/assets/d10f0ad4-12f3-4962-9e13-15783e861e5b" />
+
 load regulation:
+
 <img width="321" height="278" alt="Screenshot 2025-12-23 184518" src="https://github.com/user-attachments/assets/bff8f5a4-6c9a-4c0b-9d6c-424ff139ccfe" />
 
 REGULATION CHARACTERISTICS:
 
 V-I & REGULATION CHARACTERISTICS:
+
 line regulation:
+
 ![line reg ](https://github.com/user-attachments/assets/86834c24-4557-4317-aa27-320c3b72d94e)
 ![line reg 1](https://github.com/user-attachments/assets/2efb64d0-dadb-4d13-85c3-3a9ffd4b612f)
 
 load regulation:
+
 ![load reg](https://github.com/user-attachments/assets/0b41208e-716f-4f5b-8cdb-514f3469f0c5)
 ![load reg 1](https://github.com/user-attachments/assets/aa3ba683-5099-4a06-9640-30c0a897c8de)
 
